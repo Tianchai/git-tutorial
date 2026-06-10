@@ -34,4 +34,3 @@ git branch
 
 // Switch branch
 git checkout
-git checkout branch-name
