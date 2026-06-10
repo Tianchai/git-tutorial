@@ -14,6 +14,9 @@ git add
 git add path/to/file.extension
 git add *
 
+// Create commit from staging zone
+git commit
+git commit -m "Commit message"
 
 
 
@@ -31,9 +34,3 @@ git branch
 
 // Switch branch
 git checkout
-git checkout branch-name
-
-
-// Create commit from staging zone
-git commit
-git commit -m "Commit message"
