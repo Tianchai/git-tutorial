@@ -1,0 +1,39 @@
+// Clone project/folder
+git clone link
+
+
+
+// Show change with files are staged and not staged
+git status
+
+// Show history of commits
+git log
+
+// Add file to staging zone
+git add
+git add path/to/file.extension
+git add *
+
+
+
+
+// Update branch structure
+git fetch
+
+// Update that branch *from* remote repo
+git pull
+
+// Update that branch *to* remote repo
+git push
+
+// Show *local* branch
+git branch
+
+// Switch branch
+git checkout
+git checkout branch-name
+
+
+// Create commit from staging zone
+git commit
+git commit -m "Commit message"
